@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-hexops-gotextdiff (1.0.3-2) unstable; urgency=medium
 
-  * Initial release
+  * Source-only upload for migration to testing
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Anthony Fok <foka@debian.org>  Wed, 01 Feb 2023 12:46:55 -0700
+
+golang-github-hexops-gotextdiff (1.0.3-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1029576)
+
+ -- Anthony Fok <foka@debian.org>  Tue, 24 Jan 2023 11:51:56 -0700
